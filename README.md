@@ -1,4 +1,4 @@
-# dockerized-docs-foreman
+# dockerized-docs-kubernetes
 
 # What is it?#
 Dockerzied kubernetes.io site + kubernetes documentation for offline use.
