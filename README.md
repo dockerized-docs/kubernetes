@@ -4,7 +4,7 @@
 Dockerzied kubernetes.io site + kubernetes documentation for offline use.
 
 # Image description #
-- Base image: `starefossen/ruby-node:2-4`
+- Base image: `alpine:3.3`
 - The most current kubernetes.io branch is cloned.
 - Jekyll is installed using bundle.
 
@@ -14,5 +14,4 @@ Dockerzied kubernetes.io site + kubernetes documentation for offline use.
 $ docker run -d genadipost/dockerized-docs-kubernetes
 
 ```
-
 You can test it by visiting http://container-ip:8080
