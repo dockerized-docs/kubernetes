@@ -5,8 +5,8 @@ Dockerzied kubernetes.io site + kubernetes documentation for offline use.
 
 # Image description #
 - Base image: `alpine:3.3`
-- The most current kubernetes.io branch is cloned.
-- Jekyll is installed using bundle.
+- The most current kubernetes.io branch is cloned
+- Jekyll is installed using bundle
 
 # How to use this image #
 
